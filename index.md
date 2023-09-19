@@ -15,7 +15,7 @@ title:      Hello and welcome to my portfolio website!
 
 
 ## Social links
-I'm @bkimuma everywhere. [Email](mailto:bjoramkimuma@gmail.edu) / [Github](https://github.com/bjoramkimuma@gmail.com) / [Twitter](https://twitter.com/bjoramkimuma@gmail.com)
+I'm @bkimuma everywhere. [Email](mailto:bjoramkimuma@gmail.edu) / [Github](https://github.com/bkimuma) / [Twitter](https://twitter.com/bkimuma)
 
 
 ## Resume
