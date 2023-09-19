@@ -14,7 +14,7 @@ title:      Hello and welcome to my portfolio website!
 {:toc}
 
 
-## My links
+## Social links
 I'm @bkimuma everywhere. [Email](mailto:bjoramkimuma@gmail.edu) / [Github](https://github.com/bjoramkimuma@gmail.com) / [Twitter](https://twitter.com/bjoramkimuma@gmail.com)
 
 
@@ -24,7 +24,7 @@ Updated September 19, 2023.
 <iframe style="width: 100%; height: 500px; resize: vertical; overflow: auto;" src="/assets/KIMUMA.pdf"></iframe>
 
 
-## About
+## About me
 
 Brian Kimuma is a self-trained software developer. I graduated from Kenyatta University with a degree in Telecommunication and IT. I have a strong passion for software development and an understanding of several network infrastructures.
 
@@ -41,7 +41,7 @@ The following are some of the projects I have completed, sorted chronologically.
 <details>
 <summary></summary>
 
-[Link to project](https://github.com/bkimuma/README.md/)
+[Link to project](https://github.com/bkimuma/course_project/README.md/)
 
 </details>
 
